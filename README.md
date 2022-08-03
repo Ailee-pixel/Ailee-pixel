@@ -3,6 +3,8 @@
 - Game design
 - Computação forense
 - Segurança da Informação
+- Malwares
+- Emuladores
 
 
 ## Linguagens de programação:
