@@ -1,6 +1,6 @@
 ## Interesses:
 
-- Game design
+- Game development & character design
 - Computação forense
 - Segurança da Informação
 - Malwares
